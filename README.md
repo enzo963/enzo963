@@ -1,6 +1,5 @@
-👋 Who am I?
-
-Hi! I'm Enzo, a Front-End Development student from Iraq.
+HI everyone! 
+I'm Enzo, a Front-End Development student from Iraq.
 I enjoy building modern, clean, and responsive websites — and I'm growing every day.
 
 What am I currently working on?
