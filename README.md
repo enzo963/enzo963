@@ -1,24 +1,28 @@
-👋 Hi, I'm Enzo!
+👋 Who am I?
 
-I'm a Front-End Developer student from Iraq, building clean and modern websites.
-Currently learning HTML, CSS, JavaScript and improving every single day.
+Hi! I'm Enzo, a Front-End Development student from Iraq.
+I enjoy building modern, clean, and responsive websites — and I'm growing every day.
 
-🔧 What I'm working on
+🛠️ What am I currently working on?
 
-Learning JavaScript deeply
+Learning HTML, CSS, and JavaScript
+Building small UI projects to improve my skills
+Practicing responsive design and animations
+Preparing to learn React soon 🚀
 
-Building small front-end projects
+🔧 Tools I use
 
-Improving my UI/UX skills
+VS Code &  Visual Studeo Code
+Figma (for simple designs)
+blander (i still learning)
+Notion (for My tasks)
+Obsidian (for organizing my study)
 
-🎯 Goals for 2025
+📬 How to reach me
 
-Become a strong Front-End Developer
+Email: monther2004m5$gmail.com
+Instagram: @6_m2x
+Telegram: @ENZZ_0
+GitHub: (this profile :) )
 
-Finish my portfolio website
-
-Land my first remote job
-
-🤓 Fun Fact
-
-I drink more tea than my laptop can handle ☕
+I write better code when I have tea next to me ☕😄
