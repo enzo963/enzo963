@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Enzo!
 
-<!--
-**enzo963/enzo963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer student from Iraq, building clean and modern websites.
+Currently learning HTML, CSS, JavaScript and improving every single day.
 
-Here are some ideas to get you started:
+🔧 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning JavaScript deeply
+
+Building small front-end projects
+
+Improving my UI/UX skills
+
+🎯 Goals for 2025
+
+Become a strong Front-End Developer
+
+Finish my portfolio website
+
+Land my first remote job
+
+🤓 Fun Fact
+
+I drink more tea than my laptop can handle ☕
