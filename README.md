@@ -1,25 +1,52 @@
-HI everyone! 
-I'm Enzo, a Front-End Development student from Iraq.
-I enjoy building modern, clean, and responsive websites — and I'm growing every day.
+# 👋 Hi, I'm Enzo
 
-What am I currently working on?
- * Learning HTML, CSS, and JavaScript
- * Building small UI projects to improve my skills
- * Practicing responsive design and animations
- * Preparing to learn React soon 🚀
+🎨 Front-End Development Student from **Iraq**  
+I enjoy building **modern, clean, and responsive websites**, and I’m constantly improving my skills day by day.
 
-Tools I use
- * VS Code
- * Visual Studio Code
- * Figma (for simple designs)
- * Blender (still learning)
- * Notion (for tasks & organization)
- * Obsidian (for study notes)
+---
 
-How to reach me
- * Email: monther2004m5@gmail.com
- * Instagram: @6_m2x
- * Telegram: @ENZZ_0
- * GitHub: (this profile 🙂)
+## 🚀 What I’m Currently Working On
 
-I write better code when I have tea next to me ☕😄
+- 📚 Learning **HTML, CSS, and JavaScript**
+- 🧩 Building small **UI projects** to sharpen my skills
+- 📱 Practicing **responsive design** and **CSS animations**
+- ⚛️ Preparing to start **React** very soon
+
+---
+
+## 🛠 Tools & Technologies I Use
+
+### 💻 Development
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+### 🎨 Design & Creativity
+![Figma](https://skillicons.dev/icons?i=figma)
+![Blender](https://skillicons.dev/icons?i=blender)
+
+### 🧠 Productivity
+- 🗂 **Notion** — tasks & organization  
+- 📝 **Obsidian** — study notes & knowledge base  
+
+---
+
+## 📊 GitHub Stats
+
+![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo963&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo963&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 **Email:** monther2004m5@gmail.com  
+- 📸 **Instagram:** [@6_m2x](https://instagram.com/6_m2x)  
+- ✈️ **Telegram:** [@ENZZ_0](https://t.me/ENZZ_0)  
+- 💻 **GitHub:** You’re already here 🙂
+
+---
+
+## ☕ Fun Fact
+I write better code when I have a cup of tea next to me 😄
