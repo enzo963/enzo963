@@ -48,5 +48,4 @@ I enjoy building **modern, clean, and responsive websites**, and I’m constantl
 
 ---
 
-## ☕ Fun Fact
 I write better code when I have a cup of tea next to me 😄
