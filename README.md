@@ -16,16 +16,15 @@ Front-End Development Student based in Iraq, focused on building modern, clean, 
 ## Tools & Technologies
 
 **Development**
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+
+![Development Tools](https://skillicons.dev/icons?i=html,css,js,vscode)
 
 **Design & Creativity**
-![Figma](https://skillicons.dev/icons?i=figma)
-![Blender](https://skillicons.dev/icons?i=blender)
+
+![Design Tools](https://skillicons.dev/icons?i=figma,blender)
 
 **Productivity**
+
 - Notion for task management and organization
 - Obsidian for study notes and knowledge management
 
