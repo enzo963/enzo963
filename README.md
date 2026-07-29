@@ -79,7 +79,6 @@ I'm committed to continuous learning and improving my craft every day.
 <img src="https://raw.githubusercontent.com/enzo963/enzo963/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 
-> ⚠️ هذا الأنيميشن (الثعبان) يحتاج تفعيل GitHub Action مرة وحدة بمستودعك الشخصي (`enzo963/enzo963`) — الخطوات موجودة بالأسفل بعد الشرح.
 
 <br/>
 
