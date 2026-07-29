@@ -1,45 +1,31 @@
-# Hi, I'm Enzo
+name: Generate Snake Animation
 
-Front-End Development Student based in Iraq, focused on building modern, clean, and responsive web interfaces. I'm committed to continuous learning and improving my craft every day.
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
----
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: enzo963
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF9500
 
-## Current Focus
-
-- Mastering core web technologies: HTML, CSS, and JavaScript
-- Building UI projects to strengthen fundamental skills
-- Practicing responsive design and CSS animations
-- Preparing to learn React
-
----
-
-## Tools & Technologies
-
-**Development**
-
-![Development Tools](https://skillicons.dev/icons?i=html,css,js,vscode)
-
-**Design & Creativity**
-
-![Design Tools](https://skillicons.dev/icons?i=figma,blender)
-
-**Productivity**
-
-- Notion for task management and organization
-- Obsidian for study notes and knowledge management
-
----
-
-## GitHub Stats
-
-![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo963&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo963&layout=compact&theme=tokyonight)
-
----
-
-## Connect With Me
-
-- **Email:** monther2004m5@gmail.com
-- **Instagram:** [@6_m2x](https://instagram.com/6_m2x)
-- **Telegram:** [@ENZZ_0](https://t.me/ENZZ_0)
-- **GitHub:** You're already here
+      - name: Push snake svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
