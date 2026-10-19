@@ -22,7 +22,7 @@ I'm committed to continuous learning and improving my craft every day.
 
 <br/>
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 🔸 Mastering core web technologies: HTML, CSS, and JavaScript
@@ -33,7 +33,7 @@ I'm committed to continuous learning and improving my craft every day.
 
 <br/>
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 **Development**
 <br/>
@@ -47,12 +47,12 @@ I'm committed to continuous learning and improving my craft every day.
 
 | Tool | Purpose |
 |:---:|:---|
-| 📝 Notion | Task management and organization |
-| 🧠 Obsidian | Study notes and knowledge management |
+|  Notion | Task management and organization |
+|  Obsidian | Study notes and knowledge management |
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -65,7 +65,7 @@ I'm committed to continuous learning and improving my craft every day.
 
 <br/>
 
-## 🏆 Trophies
+##  Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=enzo963&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Stars,PullRequest,Followers,Repositories" />
@@ -73,14 +73,7 @@ I'm committed to continuous learning and improving my craft every day.
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/enzo963/enzo963/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-</div>
-
-
-<br/>
 
 ## 📫 Connect With Me
 
