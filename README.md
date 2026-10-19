@@ -52,29 +52,6 @@ I'm committed to continuous learning and improving my craft every day.
 
 <br/>
 
-##  GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo963&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF9500&icon_color=FF7A00&text_color=E8E8E8&ring_color=FF7A00" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo963&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9500&text_color=E8E8E8&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enzo963&hide_border=true&background=0D1117&ring=FF7A00&fire=FF9500&currStreakLabel=FF9500&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=8A8A8A" />
-
-</div>
-
-<br/>
-
-##  Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=enzo963&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Stars,PullRequest,Followers,Repositories" />
-</div>
-
-<br/>
-
-
-
 ## 📫 Connect With Me
 
 <div align="center">
