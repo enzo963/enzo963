@@ -31,19 +31,19 @@ I also occasionally experiment with areas such as AI, biometric applications, 3D
 
 # Technologies
 
-## Web Development
+### Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
 </p>
 
-## Game Development
+### Game Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark" />
 </p>
 
-## Design & Tools
+### Design & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,blender,git,github,vscode,visualstudio&theme=dark" />
@@ -52,7 +52,7 @@ I also occasionally experiment with areas such as AI, biometric applications, 3D
 
 <br/>
 
-Currently Learning
+### Currently Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,flask,postgres&theme=dark" />
@@ -65,16 +65,16 @@ Currently Learning
 
 My GitHub contains projects across several areas:
 
-## Web Development
+### Web Development
 Responsive websites, JavaScript projects, interactive interfaces, and web-based heritage projects.
 
-## Game Development
+### Game Development
 Experiments and university projects using Unity and C#.
 
-## Digital Heritage & 3D
+### Digital Heritage & 3D
 Projects involving photogrammetry, Blender, interactive 3D models, and web-based heritage presentation.
 
-## Experiments
+### Experiments
 Small projects exploring AI integration, biometric authentication, and other computer science concepts.
 
 <br/>
