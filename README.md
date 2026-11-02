@@ -61,23 +61,6 @@ I also occasionally experiment with areas such as AI, biometric applications, 3D
 
 <br/>
 
-# Projects & Experiments
-
-My GitHub contains projects across several areas:
-
-### Web Development
-Responsive websites, JavaScript projects, interactive interfaces, and web-based heritage projects.
-
-### Game Development
-Experiments and university projects using Unity and C#.
-
-### Digital Heritage & 3D
-Projects involving photogrammetry, Blender, interactive 3D models, and web-based heritage presentation.
-
-### Experiments
-Small projects exploring AI integration, biometric authentication, and other computer science concepts.
-
-<br/>
 
 # GitHub Statistics
 
